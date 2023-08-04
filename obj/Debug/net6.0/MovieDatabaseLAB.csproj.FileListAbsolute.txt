@@ -1,0 +1,15 @@
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\bin\Debug\net6.0\MovieDatabaseLAB.exe
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\bin\Debug\net6.0\MovieDatabaseLAB.deps.json
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\bin\Debug\net6.0\MovieDatabaseLAB.runtimeconfig.json
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\bin\Debug\net6.0\MovieDatabaseLAB.dll
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\bin\Debug\net6.0\MovieDatabaseLAB.pdb
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\MovieDatabaseLAB.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\MovieDatabaseLAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\MovieDatabaseLAB.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\MovieDatabaseLAB.AssemblyInfo.cs
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\MovieDatabaseLAB.csproj.CoreCompileInputs.cache
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\MovieDatabaseLAB.dll
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\refint\MovieDatabaseLAB.dll
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\MovieDatabaseLAB.pdb
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\MovieDatabaseLAB.genruntimeconfig.cache
+C:\Users\Digit\source\repos\Learn_to_code\GC_Labs\LABS_ONLY\MovieDatabaseLAB\obj\Debug\net6.0\ref\MovieDatabaseLAB.dll
